@@ -29,4 +29,4 @@ This is a Student Management System developed in C# using Windows Forms (WinForm
 ### Clone the Repository
 
 ```bash
-[git clone https://github.com/your-username/student-management-system.git](https://github.com/EmanElsayed2002/CRUD-using-Ado.net-DisConnected-Mode.git)
+https://github.com/EmanElsayed2002/CRUD-using-Ado.net-DisConnected-Mode.git
