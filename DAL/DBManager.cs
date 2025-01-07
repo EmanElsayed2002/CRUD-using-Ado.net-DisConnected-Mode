@@ -38,7 +38,7 @@ namespace DAL
             return dt;
         }
 
-        // DisConnected
+        // Connected
         public static int ExecuteNonQuery(string query, SqlParameter[] parameters)
         {
             int rowsAffetcted = -1;
